@@ -13,6 +13,8 @@ This is my personal web page. Under construction [for now](http://stuartgeiger.c
 Header 1
 ======
 Lorem ipsum the quick brown dog jumped over the lazy fox.
+* Bullet
+* Bullet
 
 Header 2
 ======
