@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Graduate Student in Computer Science - Specialized in Data Analytics"
   location         : "Ontario, Canada"
-  employer         :
+  employer         : "McMaster University"
   pubmed           : 
   googlescholar    :  # to add
   email            :
@@ -182,10 +182,10 @@ collections:
     output: true
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false
     permalink: /:collection/:path/
 
 
