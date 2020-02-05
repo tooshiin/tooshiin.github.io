@@ -9,6 +9,10 @@ redirect_from:
 
 {% include base_path %}
 
+For a more detailed version of my CV, please see [this file](https://drive.google.com/file/d/1KAXMKFipkMdUwSJPxgHC-b5gkKsCRTjc/view?usp=sharing). I try my best not to forget to update it.
+
+Quick overview:
+
 Education
 ======
 * M.Sc. in Computer Science (Data Analytics), McMaster University, 2020
