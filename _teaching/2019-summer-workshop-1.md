@@ -1,5 +1,5 @@
 ---
-title: "Data Science"
+title: "Venture and Leap: Data Science"
 collection: teaching
 type: "Instructor, Workshop"
 permalink: /teaching/2019-summer-workshop-1

@@ -1,5 +1,5 @@
 ---
-title: "Animal Recognition and Soft Biometrics"
+title: "FSST: Data Science Mentorship"
 collection: teaching
 type: "Instructor"
 permalink: /teaching/2019-summer-workshop-2
