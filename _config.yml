@@ -11,9 +11,9 @@ title                    : "Shervin's Homepage"
 title_separator          : "-"
 name                     : &name "Shervin Manzuri Shalmani"
 description              : &description "Graduate Student in Computer Science - Specialized in Data Analytics"
-url                      : https://tooshiin.github.io 
+url                      : https://shervinmanzuri.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "tooshiin/tooshiin.github.io"
+repository               : "shervinmanzuri/shervinmanzuri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tooshiin"
+  github           : "shervinmanzuri"
   google_plus      :
   keybase          :
   instagram        :
