@@ -20,6 +20,12 @@ Education
 
 Work experience
 ======
+* May 2020 - September 2020: Machine Learning Engineer
+  * [Ensho](https://www.enshohealth.com/)
+  * Duties: TBA
+* September 2018 - September 2020: Research Assistant
+  * [Data Science Lab](http://db.cas.mcmaster.ca/)
+  * Duties: Data curation, data cleaning, sampling clips from videos under uncertainty for the task of video understanding and temporal reasoning.
 * July 2017 - April 2018: Software Developer (Mobile Systems)
   * [Sadad](https://www.linkedin.com/company/sadad-electronic-payment-iran/) Payment System Provider
   * Duties included: Developing mobile apps using Swift and Obj-C
@@ -27,14 +33,15 @@ Work experience
 Skills
 ======
 * C++ / Python / Swift / Java / R / Matlab etc.
-* TensorFlow / ncnn
+* PyTorch (Love) / Keras (Marry) / TensorFlow (Kill)
 * Git (obviously)
+* Data Management
 
-<!-- Publications
+Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul> -->
+  {% endfor %}</ul>
   
 Teaching
 ======
@@ -45,4 +52,4 @@ Teaching
   
 Service and Leadership
 ======
-* Currently strongly opinionated.
+* Former executive officer of the Engineering Graduate Soceity of McMaster University.
