@@ -12,4 +12,4 @@ redirect_from:
 
 * I'm currently doing my internship at [Ensho Health](https://www.enshohealth.com/).
 
-* My research interests are deep learning, reasoning and computational efficiency. I'm also interested in the intersection of AI and healthcare technologies.
+* My research interests are deep learning, clustering, reasoning and computational efficiency. I'm also interested in the intersection of AI and healthcare technologies.
