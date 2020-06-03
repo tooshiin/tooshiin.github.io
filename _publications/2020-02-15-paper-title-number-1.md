@@ -2,14 +2,14 @@
 title: "CacheNet: A Model Caching Framework for Deep Learning Inference on Edge"
 collection: publications
 permalink: /publication/2020-02-15-paper-title-number-1
-excerpt: 'Neural networks are considered to be approximate functions, but what if we considered them as a memory with a capacity?  CacheNet  is  a  neural  network  that  dissects  other  neural  networks’  memories  and  caches  only  the  parts  of memories  needed  on  an  edge  device, significantly shortening inference time on an edge device.'
+excerpt: '(TBA) CacheNet is a neural network partitioning and caching scheme. It partitions a neural network into multiple smaller specialized neural networks in the cloud, where a server selects partitions for inference.'
 date: 2020-06-30
-venue: 'IEEE Transactions on Mobile Computing'
+venue: '(TBA) IEEE Transactions on Mobile Computing'
 paperurl: '[TBA]'
 citation: '[TBA]'
 ---
 
-Neural networks are considered to be approximate functions, but what if we considered them as a memory with a capacity?  CacheNet  is  a  neural  network  that  dissects  other  neural  networks’  memories  and  caches  only  the  parts  of memories  needed  on  an  edge  device, significantly shortening inference time on an edge device.
+ (TBA) CacheNet is a neural network partitioning and caching scheme. It partitions a neural network into multiple smaller specialized neural networks in the cloud, where a server selects partitions for inference. The smaller specialized neural network will work well on consecutive frames over a short period. An entropy function on the input is used to decide if the cached device model needs to be updated with another model from the server. We achieve short end-to-end latency, with negligble effects on accuracy.
 
 <!-- [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
