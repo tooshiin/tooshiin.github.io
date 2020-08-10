@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2020-02-15-paper-title-number-1
 excerpt: '(TBA) CacheNet is a neural network partitioning and caching scheme. It partitions a neural network into multiple smaller specialized neural networks in the cloud, where a server selects partitions for inference.'
 date: 2020-06-30
-venue: '(TBA) IEEE Transactions on Mobile Computing'
+venue: '(TBA)'
 paperurl: '[TBA]'
 citation: '[TBA]'
 ---
