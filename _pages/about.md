@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-* Welcome to my personal webpage! I'm currently a graduate student in McMaster University's [Data Science Lab](http://db.cas.mcmaster.ca) working on my Master's degree. I previously attained my undergraduate degree at [Sharif University of Technology](http://ce.sharif.edu) in the field of Computer Engineering.
+* Welcome to my personal webpage! I'm currently a Data Scientist at [GoldSpot Discoveries Corp](http://https://goldspot.ca/), working on cool computer vision and model production problems.
 
-* I'm currently doing a co-op internship at [Ensho Health](https://www.enshohealth.com/).
+* I was previously a graduate Master's student in McMaster University's [Data Science Lab](http://db.cas.mcmaster.ca) during which I also did an internship at [Ensho Health](https://www.enshohealth.com/). Previous to that, I attained my undergraduate degree at [Sharif University of Technology](http://ce.sharif.edu) in the field of Computer Engineering.
 
-* My research interests are deep learning, clustering and computational efficiency. I'm also interested in the intersection of AI and healthcare technologies.
+* My research interests are computer vision, model compression, uncertainty in deep learning and model robustness.

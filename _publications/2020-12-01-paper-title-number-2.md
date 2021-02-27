@@ -1,0 +1,16 @@
+---
+title: "Confidence Distillation for Efficient Action Recognition"
+collection: publications
+permalink: /publication/2020-12-01-paper-title-number-2
+excerpt: 'Modern neural networks are powerful predictive models. However, when it comes to recognizing that they may be wrong about their predictions and measuring the certainty of beliefs, they perform poorly. For one of the most common activation functions, the ReLU and its variants, even a well-calibrated model can produce incorrect but high confidence predictions. In the related task of action recognition, most current classification methods are based on clip-level classifiers that densely sample a given video for non-overlapping, same sized clips and aggregate the results using an aggregation function - typically averaging - to achieve video level predictions. While this approach has shown to be effective, it is sub-optimal in recognition accuracy and has a high computational overhead. To mitigate both these issues, we propose the confidence distillation framework to firstly teach a representation of uncertainty of the teacher to the student and secondly divide the task of full video prediction between the student and the teacher models. We conduct extensive experiments on three action recognition datasets and demonstrate that our framework achieves state-of-the-art results in action recognition accuracy and computational efficiency.'
+date: 2020-12-01
+venue: '(TBA)'
+paperurl: 'http://hdl.handle.net/11375/26127'
+citation: 'Manzuri Shalmani, Shervin. Confidence Distillation for Efficient Action Recognition. Diss. 2020.'
+---
+
+Modern neural networks are powerful predictive models. However, when it comes to recognizing that they may be wrong about their predictions and measuring the certainty of beliefs, they perform poorly. For one of the most common activation functions, the ReLU and its variants, even a well-calibrated model can produce incorrect but high confidence predictions. In the related task of action recognition, most current classification methods are based on clip-level classifiers that densely sample a given video for non-overlapping, same sized clips and aggregate the results using an aggregation function - typically averaging - to achieve video level predictions. While this approach has shown to be effective, it is sub-optimal in recognition accuracy and has a high computational overhead. To mitigate both these issues, we propose the confidence distillation framework to firstly teach a representation of uncertainty of the teacher to the student and secondly divide the task of full video prediction between the student and the teacher models. We conduct extensive experiments on three action recognition datasets and demonstrate that our framework achieves state-of-the-art results in action recognition accuracy and computational efficiency.
+
+<!-- [Download paper here](http://hdl.handle.net/11375/26127)
+
+Recommended citation: Manzuri Shalmani, Shervin. Confidence Distillation for Efficient Action Recognition. Diss. 2020.

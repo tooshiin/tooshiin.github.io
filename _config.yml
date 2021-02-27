@@ -10,7 +10,7 @@ locale                   : "en-CA"
 title                    : "Shervin's Homepage"
 title_separator          : "-"
 name                     : &name "Shervin Manzuri Shalmani"
-description              : &description "Graduate Student in Computer Science - Specialized in Data Analytics"
+description              : &description "Data Scientist"
 url                      : https://shervinmanzuri.github.io 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shervinmanzuri/shervinmanzuri.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Shervin Manzuri Shalmani"
   avatar           : "profile.png"
-  bio              : "Graduate Student in Computer Science - Specialized in Data Analytics"
+  bio              : "Data Scientist"
   location         : "Ontario, Canada"
-  employer         : "McMaster University"
+  employer         : "GoldSpot Discoveries"
   pubmed           : 
-  googlescholar    :  # to add
+  googlescholar    :  "HvhkOlAAAAAJ"
   email            :
   researchgate     :  
   uri              :
@@ -185,7 +185,7 @@ collections:
     output: false
     permalink: /:collection/:path/
   talks:
-    output: false
+    output: true
     permalink: /:collection/:path/
 
 

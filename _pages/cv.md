@@ -9,22 +9,27 @@ redirect_from:
 
 {% include base_path %}
 
-For a more detailed version of my CV, please see [this file](https://drive.google.com/file/d/1KAXMKFipkMdUwSJPxgHC-b5gkKsCRTjc/view?usp=sharing). I try my best not to forget to update it.
+For a more detailed version of my CV, please see [this file](https://drive.google.com/file/d/1KAXMKFipkMdUwSJPxgHC-b5gkKsCRTjc/view?usp=sharing). It may be out of date sometimes.
 
 Quick overview:
 
 Education
 ======
-* M.Sc. in Computer Science (Data Analytics), McMaster University, 2020
+* M.Sc. in Computer Science, McMaster University, 2020
 * B.Sc. in Computer Engineering (Software), Sharif University of Technology, 2018
 
 Work experience
 ======
-* May 2020 - September 2020: Machine Learning Engineer
-  * [Ensho](https://www.enshohealth.com/)
-  * Duties: TBA
-* September 2018 - September 2020: Research Assistant
-  * [Data Science Lab](http://db.cas.mcmaster.ca/)
+* December 2020 - Now: Data Scientist
+  * [GoldSpot Discoveries](https://https://goldspot.ca/)
+  * Duties: Training and deployment of deep learning models trained on multi-modal financial or geological data. Research and development on inversion problems using deep learning.
+   
+* May 2020 - September 2020: Junior Data Scientist
+  * Internship at [Ensho Health](https://www.enshohealth.com/)
+  * Duties: Training and deployment of deep learning models trained on sensitive medical data. Document layout analysis using AI, heuristics and image processing.
+  
+* September 2018 - December 2020: Research Assistant
+  * Graduate Studies at [Data Science Lab](http://db.cas.mcmaster.ca/)
   * Duties: Data curation, data cleaning, sampling clips from videos under uncertainty for the task of video understanding and temporal reasoning.
 * July 2017 - April 2018: Software Developer (Mobile Systems)
   * [Sadad](https://www.linkedin.com/company/sadad-electronic-payment-iran/) Payment System Provider
@@ -36,6 +41,7 @@ Skills
 * PyTorch (Love) / Keras (Marry) / TensorFlow (Kill)
 * Git (obviously)
 * Data Management
+* Communication (I know it's pretty common to see this but I just love presenting and teaching)
 
 Publications
 ======
